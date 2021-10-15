@@ -1,0 +1,10 @@
+{
+    "source": "https://zetflix24.pro/",
+    "dist": {
+        "android": {
+            "file": "https://zetflix24.app/releases/ZETFLIX24-0.0.1.apk",
+            "download": "https://zetflix24.app/download/android",
+            "version": "0.0.1"
+        }
+    }
+}
